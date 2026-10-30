@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokka-hachiron-sekihi",
  "yomi": "こっかはちろんせきひ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（論難）",
+  "era": "江戸中期（明和5年〈1768〉に宣長が写す）",
+  "author": "大菅公圭（中養父）／評 本居宣長",
+  "desc": "荷田在満『国歌八論』の説を逐条に非とした書。本居宣長が明和5年5月に八論とともに写し、自分の考えを書き加えた評を付す。"
+ },
  "editions": [
   {
    "pid": "993379",
